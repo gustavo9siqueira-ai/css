@@ -1,0 +1,19 @@
+h1{
+text-align: center; 
+color: rgb(17, 17, 155);
+}
+
+p{
+text-align: center;
+color: aqua;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+}
+
+body{ 
+background-color: rgb(178, 107, 245);
+background-image: url(tasbih.png) ;
+background-repeat: no-repeat;
+background-position-x: center;
+background-position-y: -50%;
+}
